@@ -1,0 +1,40 @@
+.title-bar{
+    background-color: black;
+    margin-bottom: 50px;
+}
+h1{
+    color: white;
+    padding: 10px;
+}
+.main{
+    text-align: center;
+    background-color: aqua;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    height: 645px;
+}
+.data-box{
+    background-color: orange;
+    height: 400px;
+    width: 400px;
+    margin: 0px auto;
+    text-align: left;
+}
+h2{
+    color: purple;
+    padding: 5px;
+    text-align: center;
+}
+body{
+    margin: 0px;
+}
+p{
+    color: white;
+    font-size: large;
+    line-height: 2rem;
+    padding-left: 20px;
+    font-weight: bold;
+}
+span{
+    color: black;
+}
